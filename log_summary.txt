@@ -1,0 +1,4 @@
+Log Level Summary:
+INFO: 2
+WARNING: 1
+ERROR: 1

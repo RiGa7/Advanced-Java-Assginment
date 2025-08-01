@@ -1,0 +1,4 @@
+[2025-07-29 10:21:55] INFO User john.doe@example.com logged in from 192.168.1.5
+[2025-07-29 10:23:10] WARNING Disk usage at 85%
+[2025-07-29 10:25:42] ERROR Failed to connect to database at 10.0.0.2
+[2025-07-29 10:26:01] INFO User jane.doe@example.com logged out

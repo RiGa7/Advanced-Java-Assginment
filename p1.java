@@ -10,7 +10,7 @@ public class p1 {
         Scanner sc = new Scanner(System.in);
         String text = sc.nextLine();
 
-        try (FileWriter writer = new FileWriter("C:/Users/nikki/Desktop/Java Assignment/input.txt")) {
+        try (FileWriter writer = new FileWriter("input.txt")) {
 
             writer.write(text);
 

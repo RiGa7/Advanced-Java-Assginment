@@ -1,0 +1,4 @@
+[2025-07-29 10:21:55] INFO User [REDACTED_EMAIL] logged in from [REDACTED_IP]
+[2025-07-29 10:23:10] WARNING Disk usage at 85%
+[2025-07-29 10:25:42] ERROR Failed to connect to database at [REDACTED_IP]
+[2025-07-29 10:26:01] INFO User [REDACTED_EMAIL] logged out

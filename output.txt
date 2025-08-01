@@ -1,8 +1,5 @@
-how : 1
-whats : 1
-d : 1
-are : 1
-going : 1
-hey : 1
-you : 1
-on : 1
+java : 3
+powerful : 1
+everywhere : 1
+is : 3
+fun : 1

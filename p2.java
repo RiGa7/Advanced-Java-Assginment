@@ -37,7 +37,7 @@ public class p2 {
         try (FileOutputStream fos = new FileOutputStream("masked_output.txt")) {
             fos.write(str.toString().getBytes());
         } catch (IOException e) {
-            System.out.println("Error writing to file: " + e.getMessage());
+            System.out.println("Error : " + e.getMessage());
         }
     }
 }
